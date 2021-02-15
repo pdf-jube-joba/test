@@ -1,5 +1,5 @@
 # hello
-[ ] test
-[x] test
+- [ ] test
+- [x] test
 - [ ]test
-  [x]test
+- [x]test
